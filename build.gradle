@@ -13,7 +13,3 @@ run {
 task wrapper(type: Wrapper) {
     gradleVersion = '2.8'
 }
-
-dependencies {
- compile 'mysql:mysql-connector-java:5.1.+'
-}
